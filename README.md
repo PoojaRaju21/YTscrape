@@ -7,8 +7,4 @@ The problem statement is to create a Streamlit application that allows users to 
 
 **Technologies used :**
 +Python
-+MongoDB
-+MySQL
-+YouTube Data API
-+Streamlit
-+Pandas
+
